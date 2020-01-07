@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870833777970",
+    "firebase_url": "https://me-project-598e5.firebaseio.com",
+    "project_id": "me-project-598e5",
+    "storage_bucket": "me-project-598e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870833777970:android:d6f23747b6825a3cc3fb2b",
+        "android_client_info": {
+          "package_name": "com.parkingkoi.service.golpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870833777970-34an1480lmati8dllc008ppg49hqtdeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4LOn0W0k9ikTaCDsiv9VzJ7IbxPlKh04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870833777970-34an1480lmati8dllc008ppg49hqtdeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
